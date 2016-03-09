@@ -1,4 +1,4 @@
-#  Identify relevant galaxy properties
+#  Validation protocol for input catalogs
 
 Summary -- A standard protocol should be developed to test the catalogs.
 
